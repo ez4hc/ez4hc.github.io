@@ -1,1 +1,1 @@
-# hc4fun.github.io
+# ez4hc.github.io

@@ -1,32 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>开荒</title>
-      <link href="/p/e70a.html"/>
-      <url>/p/e70a.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><pre><code>折腾好了博客，随便写点什么吧，作为开荒。那就先来个经典开头吧</code></pre><figure class="highlight arduino"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(<span class="keyword">String</span>[] args)</span> </span>&#123;</span><br><span class="line">    System.out.<span class="built_in">println</span>(<span class="string">&quot;Hello World&quot;</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure><h2 id="立FLAG"><a href="#立FLAG" class="headerlink" title="立FLAG"></a>立FLAG</h2><pre><code>自己并没有写日记的习惯，但是工作中还是有很多需要记录的，就当是个记事本吧，好好利用起来，不要让它变成互联网中的一块荒地。</code></pre><h2 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h2><pre><code>用来随便写点儿啥，记录工作中需要的东西，以及自己踩过的坑，有没有可能写日记？谁知道呢</code></pre><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><pre><code>既然想改变，那就做吧，坚持就是胜利！</code></pre>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>开荒</title>
+    <url>/p/e70a.html</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><pre><code>折腾好了博客，随便写点什么吧，作为开荒。那就先来个经典开头吧
+</code></pre>
+<figure class="highlight arduino"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(<span class="keyword">String</span>[] args)</span> </span>&#123;</span><br><span class="line">    System.out.<span class="built_in">println</span>(<span class="string">&quot;Hello World&quot;</span>);</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h2 id="立FLAG"><a href="#立FLAG" class="headerlink" title="立FLAG"></a>立FLAG</h2><pre><code>自己并没有写日记的习惯，但是工作中还是有很多需要记录的，就当是个记事本吧，好好利用起来，
+不要让它变成互联网中的一块荒地。
+</code></pre>
+<h2 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h2><pre><code>用来随便写点儿啥，记录工作中需要的东西，以及自己踩过的坑，有没有可能写日记？谁知道呢
+</code></pre>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><pre><code>既然想改变，那就做吧，坚持就是胜利！
+</code></pre>
+]]></content>
       <categories>
-          
-          <category> 随笔 </category>
-          
+        <category>随笔</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 日记 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>新年第一帖</title>
+    <url>/p/f60a.html</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><pre><code>转眼来到了2022年，新的一年，希望能有新气象，一切都玩好的方向发展！
+</code></pre>
+<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><pre><code>刚过完元旦就被安排出差！真的有点儿反感了，吐槽一句SB公司，来了也不知道干嘛，需求不明确，怎么下手嘛，根本不想动，
+就当个小透明吧，真的不想再陷下去了，赶紧支棱起来啊！
+</code></pre>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><pre><code>迈开‘步伐’，希望能有新的突破。
+</code></pre>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
 </search>
